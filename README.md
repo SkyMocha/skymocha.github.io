@@ -4,12 +4,12 @@ Hi! I'm [Skye Kychenthal](https://www.skymocha.net). The purpose of this website
 * [www.skymocha.net](https://www.skymocha.net)
 * [Twitter.com/skymochi64](https://www.twitter.com/skymochi64)
 
-I periodicially update this website through a [script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py).
+I periodically update this website through a [script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py).
 
 ## Courses
 
-* [Math 111](Math 111) 
-* [csci122](csci122) 
+* [MATH 111](Math 111) 
+* [CSCI122](csci122) 
 
 
 Last updated 2022-08-29 using a [static site generation script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py)
