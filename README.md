@@ -1,2 +1,4 @@
-# skymocha.github.io
-
+# SkyMocha's Homework & Notes
+## Courses
+### [Math 111](Math 111) 
+Last updated 2022-08-29
