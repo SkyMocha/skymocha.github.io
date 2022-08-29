@@ -3,7 +3,9 @@ Hi! I'm [Skye Kychenthal](https://www.skymocha.net). The purpose of this website
 
 * [www.skymocha.net](https://www.skymocha.net)
 * (Twitter.com/skymochi64)[https://www.twitter.com/skymochi64]
+
 I periodicially update this website through a [script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py).
+
 ## Courses
 
 * [Math 111](Math 111) 
