@@ -7,7 +7,7 @@ Hi! I'm [Skye Kychenthal](https://www.skymocha.net). The purpose of this website
 I periodically update this website through a [script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py).
 
 ## Math 111 Class Notes & Homework 
-* [MATH 111/WEEK1.PDF](Math 111/Week1.pdf) 
+* [MATH 111/Week1.pdf](Math 111/Week1.pdf)
 
 
-Last updated 2022-08-29 using a [static site generation script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py)
+Last updated 2022-08-30 using a [static site generation script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py)

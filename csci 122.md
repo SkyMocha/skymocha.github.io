@@ -6,11 +6,8 @@ Hi! I'm [Skye Kychenthal](https://www.skymocha.net). The purpose of this website
 
 I periodically update this website through a [script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py).
 
-## Courses
-
-* [MATH 111](Math 111) 
-* [CSCI 122](csci 122) 
-* [SOC 221](Soc 221) 
+## csci 122 Class Notes & Homework 
+* [CSCI 122/Week1.pdf](csci 122/Week1.pdf)
 
 
 Last updated 2022-08-30 using a [static site generation script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py)
