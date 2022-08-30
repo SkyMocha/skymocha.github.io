@@ -12,7 +12,7 @@ I periodically update this website through a [script](https://github.com/SkyMoch
 * [CSCI 122](csci 122) 
 * [SOC 221](Soc 221) 
 
-##Notes
+## Notes
 All courses taken are at [Reed College](https://www.reed.edu). The most up-to-date course catalog can be found [here](https://www.reed.edu/catalog/). As all notes & work done here are written by Skye Kychenthal, they should NOT be submitted as your own original work. This is called plagarism.
 
 
