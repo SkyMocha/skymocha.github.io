@@ -26,9 +26,9 @@ def addPDF (course, folder, week, _file):
 
     cmd = f"cp '{_path}' '{_out}/{week}.pdf'"
 
-    if (not os.path.isfile (f"'{_out}/{week}.pdf'")):
+    # if (not os.path.isfile (f"'{_out}/{week}.pdf'")):
 
-        os.system (cmd)
+    os.system (cmd)
     
     paths[course].append(f'{course}/{week}.pdf')
     courses.append (course)
@@ -60,12 +60,13 @@ def updatePDF (course):
                         addPDF (course, folder, week, _file)
 
 updatePDF('Math 111')
-updatePDF('csci122')
+updatePDF('csci 122')
 updatePDF('Soc 221')
 
 print (paths)
 
-info_text = "## Information\nHi! I'm [Skye Kychenthal](https://www.skymocha.net). The purpose of this website is to facilitate an easier sharing of my homework for the purposes of collaboration! I am currently a freshmen at Reed College, so below is are the current classes I am taking, and the current work that I have published to this website. If you want a more detailed look at who I am, check out:\n\n* [www.skymocha.net](https://www.skymocha.net)\n* [Twitter.com/skymochi64](https://www.twitter.com/skymochi64)\n\nI periodically update this website through a [script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py).\n\n"
+info_text = "## Information\nHi! I'm [Skye Kychenthal](https://www.skymocha.net). The purpose of this website is to facilitate an easier sharing of my homework for the purposes of collaboration, to help out fellow students (copying is NOT permitted), and to get in the habit/spirit of open-sourcing work. I am currently a freshmen at Reed College, so below is are the current classes I am taking, and the current work that I have published to this website. If you want a more detailed look at who I am, check out:\n\n* [www.skymocha.net](https://www.skymocha.net)\n* [twitter.com/skymochi64](https://www.twitter.com/skymochi64)\n\nI periodically update this website through a [script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py).\n\n"
+notes_text = '\n## Notes\nAll courses taken are at [Reed College](https://www.reed.edu). The most up-to-date course catalog can be found [here](https://www.reed.edu/catalog/). As all notes & work done here are written by Skye Kychenthal, they should NOT be submitted as your own original work. This is called plagarism.\n\n'
 
 os.chdir (root_path)
 
@@ -81,24 +82,29 @@ for c in courses:
 
     _class = open (f'{c}.md', 'w')
 
-    _class_txt = f'{info_text}## {c} Class Notes & Homework \n'
+    _class_txt = f'{info_text}## {c.upper()} Class Notes & Homework \n'
 
     for p in paths[c]:
 
         print (p)
 
-        _class_txt += f'* [{p.upper()}]({p}) \n'
+        _p_split = p.split('/')
+
+        _class_txt += f'* [{_p_split[0].upper()}/{_p_split[1]}]({p})\n'
         
         os.system (f'git add "{p}"')
     
+    _class_txt += notes_text
+
     _class_txt += f'\n\nLast updated {day} using a [static site generation script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py)'
 
     _class.write(_class_txt)
 
     _class.close()
 
-
     os.system (f'git add "{c}.md"')
+
+index_txt += notes_text
 
 index_txt += f'\n\nLast updated {day} using a [static site generation script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py)'
 
