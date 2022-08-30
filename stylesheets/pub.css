@@ -21,7 +21,6 @@ body {
 }
 
 body * {
-    width: 95%;
     height: auto;
 }
 
@@ -38,6 +37,7 @@ h3 {
 }
 
 h2, .publication {
+    width: 95%;
     margin-top: calc(var(--padding-left)*0.25) ;
     margin-left: calc(var(--padding-left)*2);
 }
