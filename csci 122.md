@@ -4,6 +4,7 @@
 * [Reading](/reading)
 * [Resume](/resume.pdf)
 * [Twitter](https://www.twitter.com/skymochi64)
+
 ## CSCI 122 Class Notes & Homework 
 * [CSCI 122 / Week1.pdf](csci 122/Week1.pdf)
 

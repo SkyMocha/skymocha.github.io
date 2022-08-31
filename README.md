@@ -4,6 +4,7 @@
 * [Reading](/reading)
 * [Resume](/resume.pdf)
 * [Twitter](https://www.twitter.com/skymochi64)
+
 ## Information
 Hi! I'm [Skye Kychenthal](https://www.skymocha.net). The purposes of this website are:
 * To facilitate an easier sharing of my homework for the purposes of collaboration, to help out fellow students (copying is NOT permitted)

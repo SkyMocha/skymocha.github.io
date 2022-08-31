@@ -7,6 +7,14 @@ This is split into:
 * I am ambivalent about this reading
 * Do not read
 
+## Header
+
+* [Index](/)
+* [Publications](/pub_temp)
+* [Reading](/reading)
+* [Resume](/resume.pdf)
+* [Twitter](https://www.twitter.com/skymochi64)
+
 ## Recommended Books
 
 These books are most likely transformative in some way to how I view the world, who I am as a person, and the way I think. 
