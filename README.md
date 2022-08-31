@@ -23,4 +23,4 @@ All courses taken are at [Reed College](https://www.reed.edu). The most up-to-da
 
 
 
-Last updated 2022-08-30 using a [static site generation script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py)
+Last updated 2022-08-31 using a [static site generation script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py)
