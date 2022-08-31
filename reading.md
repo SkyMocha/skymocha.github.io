@@ -9,6 +9,8 @@ This is split into:
 
 ## Recommended Books
 
+These books are most likely transformative in some way to how I view the world, who I am as a person, and the way I think. 
+
 ### (9.5/10) Fight Club. 1999. Movie (& book).
 
 Chuck Palahaniuk is a master-class troll whose insanity has produced the foundations for Fight Club the movie. There is an abundance to analyze about this movie, alongside the compelling plot, the small cast of characters, and incredibly editing & pacing. My favorite movie. I have wasted 5 months researching it!
@@ -27,6 +29,10 @@ Further reading: [*Does Microtargetting Work?*](https://muhark.github.io/static/
 ### (8.5/10) *HumanKind*, *Rutger Bregman*. 2019. Book.
 
 Restored my faith in humanity. I am indeed a homo puppy :)
+
+### (8/10) *Neon Genisis Evangellion* & *FLCL*. 1995 & 2000. Anime.
+
+I am putting these two Ginax anime together because of how they are special to me.  
 
 ### (8/10) Twitter & Tear Gas
 
