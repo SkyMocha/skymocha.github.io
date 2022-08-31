@@ -3,7 +3,8 @@
 * [Publications](/pub_temp)
 * [Reading](/reading)
 * [Resume](/resume.pdf)
-* [Twitter](https://www.twitter.com/skymochi64)## Courses
+* [Twitter](https://www.twitter.com/skymochi64)
+## Courses
 
 * [MATH 111](Math 111) 
 * [CSCI 122](csci 122) 

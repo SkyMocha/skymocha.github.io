@@ -3,7 +3,8 @@
 * [Publications](/pub_temp)
 * [Reading](/reading)
 * [Resume](/resume.pdf)
-* [Twitter](https://www.twitter.com/skymochi64)## MATH 111 Class Notes & Homework 
+* [Twitter](https://www.twitter.com/skymochi64)
+## MATH 111 Class Notes & Homework 
 * [MATH 111 / Week1.pdf](Math 111/Week1.pdf)
 
 ## Notes
