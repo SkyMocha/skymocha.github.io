@@ -44,6 +44,9 @@ def updatePDF (course):
 
             for week in os.listdir (os.path.join (curr_path, folder)):
 
+                # Make sure it starts with a W or week
+                # to not upload a folder (IE. homework) put a _ before it
+                # so while being worked on Week1Proof would be _Week1Proof
                 if (week[0:1] != 'W'):
                     continue
 
@@ -62,17 +65,19 @@ def updatePDF (course):
 updatePDF('Math 111')
 updatePDF('csci 122')
 updatePDF('Soc 221')
+updatePDF('Hum 110')
 
 print (paths)
 
-info_text = "## Information\nHi! I'm [Skye Kychenthal](https://www.skymocha.net). The purposes of this website are:\n* To facilitate an easier sharing of my homework for the purposes of collaboration, to help out fellow students (copying is NOT permitted)\n* To get in the habit/spirit of open-sourcing work. Compared to my main site, this website is incredibly light-weight by being based on simple .html and simple .md files. \n* To serve as a file upload source for the purposes of a [publications.html (temporary)](/pub_temp.html) & [resume](/resume.pdf).\n\nI am currently a freshmen at Reed College, so below is are the current classes I am taking, and the current work that I have published to this website. If you want a more detailed look at who I am, check out:\n\n* [www.skymocha.net](https://www.skymocha.net)\n* [www.twitter.com/skymochi64](https://www.twitter.com/skymochi64)\n\nI periodically update this website through a [script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py).\n\n"
+header_text = "## Header\n* [Index](/)\n* [Publications](/pub_temp)\n* [Reading](/reading)\n* [Resume](/resume.pdf)\n* [Twitter](https://www.twitter.com/skymochi64)\n\n"
+info_text = "## Information\nHi! I'm [Skye Kychenthal](https://www.skymocha.net). The purposes of this website are:\n* To facilitate an easier sharing of my homework for the purposes of collaboration, to help out fellow students (copying is NOT permitted)\n* To get in the habit/spirit of open-sourcing work. Compared to my main site, this website is incredibly light-weight by being based on simple .html and simple .md files. \n* To serve as a file upload source for the purposes of a [publications.html (temporary)](/pub_temp.html) & [resume](/resume.pdf).\n\n"
 notes_text = '\n## Notes\nAll courses taken are at [Reed College](https://www.reed.edu). The most up-to-date course catalog can be found [here](https://www.reed.edu/catalog/). As all notes & work done here are written by Skye Kychenthal, they should NOT be submitted as your own original work. This is called plagarism.\n\n'
 
 os.chdir (root_path)
 
 index = open ('README.md', 'w')
 
-index_txt = f"{info_text}## Courses\n\n"
+index_txt = f"{header_text}{info_text}## Courses\n\n"
 
 for c in courses:
 
@@ -82,7 +87,7 @@ for c in courses:
 
     _class = open (f'{c}.md', 'w')
 
-    _class_txt = f'{info_text}## {c.upper()} Class Notes & Homework \n'
+    _class_txt = f'{header_text}## {c.upper()} Class Notes & Homework \n'
 
     for p in paths[c]:
 
