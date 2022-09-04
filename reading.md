@@ -20,7 +20,7 @@ My favorite movie. Chuck Palahaniuk is a master-class troll whose insanity has p
 
 ### (9/10) Disco Elysium. 2019. Video Game.
 
-Do you want to write multiple paragraphs to your friends about the morality of power vacuums and their creation of police states and dictatorships based solely off 5 minutes of gameplay? Or, do you want to discuss with your friend whether or not it's worth shooting a 12 year old for impeding in a police investigation (/j). Do you want to talk to your own psyche about the morality of capitalism, communism, incremental progressive advancement, and why you are sorry to everyone ALL THE TIME? Do you want the best writing and voice acting video games have to offer? Do you want a story worth at least a few PhD thesies? Go play Disco Elysium even if you answered no to all of these.
+Do you want to write multiple paragraphs to your friends about the morality of power vacuums and their creation of police states and dictatorships based solely off 5 minutes of gameplay? Or, do you want to discuss with your friend whether or not it's worth shooting a 12 year old for impeding in a police investigation (/j). Do you want to talk to your own psyche about the morality of capitalism, communism, incremental progressive advancement, and why you are sorry to everyone ALL THE TIME? Do you want the best writing and voice acting video games have to offer? Do you want a story worth at least a few PhD theses? Go play Disco Elysium even if you answered no to all of these.
 
 ### (9/10) _Mindf_ck_, _Christopher Wylie_, 2019. Book.
 
@@ -42,11 +42,21 @@ I am putting these two Ginax anime together because of how they are special to m
 
 ### (8/10) _Becoming A Gendered Body_, _Karin A. Martin_. 1998. Journal Article.
 
-"Children's bodies are disciplined by schools," (Martin 1998) not in the incentivization of docility (Foucault 1979), but in the creation of gendered bodies. The ways in which women "sit, stand, gesture, walk, and throw... [by taking] up less physical space... [or not] throwing from the shoulder." (Martin 1998). Karin A. Martin explores how the ways in which pre-schoolers are encouraged to dress, act, and exist in physical space influences the ways in which children learned gender. To change a mind is to change a body, and to change a body is to change a mind. As a trans-femme, this article makes me sit down with my pre-conceived notions of masculinity and femininity and explore the ways in which my upbringing & transition not just influences/d the ways in which I act, but the ways in which I carry my body and exist in physical space.
+"Children's bodies are disciplined by schools," (Martin 1998) not in the incentivization of docility [1], but in the creation of gendered bodies. The ways in which women "sit, stand, gesture, walk, and throw... [by taking] up less physical space... [or not] throwing from the shoulder." (Martin 1998). Karin A. Martin explores how the ways in which pre-schoolers are encouraged to dress, act, and exist in physical space influences the ways in which children learned gender. Further reading goes to show how this research can be the basis for looks into, say, the construction of heteronormativity [2].
+
+To change a mind is to change a body, and to change a body is to change a mind. As a trans-femme, this article makes me sit down with my pre-conceived notions of masculinity and femininity and explore the ways in which my upbringing & transition not just influences/d the ways in which I act, but the ways in which I carry my body and exist in physical space.
 
 My only gripe with this journal article is (although _very_ briefly mentioned) heavy focus on middle-class white children. I wonder how me going to pre-school in Chile would have changed the results.
 
+#### Citation
+
 Martin, K. A. 1998. "Becoming a Gendered Body: Practices of Preschools." American Sociological Review 63 (4): 494-511
+
+#### Further Reading
+
+[1] **NOT READ YET** Focault, Michel. 1979. "Discipline & Punish: the birth of the prison."
+
+[2] **READ** Gansen, Heidi M. 2017. "Reproducing (and Disrupting) Heteronormativity: Gendered Sexual Socialization in Preschool Classrooms." Sociology of Education, 90(3): 255-272.
 
 ### (7.5/10) Twitter & Tear Gas
 
