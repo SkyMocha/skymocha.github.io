@@ -1,6 +1,46 @@
+:root {
+    --padding-left: 1.5vw;
+    font-family: 'Times New Roman', serif;
+}
+
+body {
+    letter-spacing: 0.065em;
+    display: block;
+    position: absolute;
+    left: 0px;
+    top: 0px;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    line-break: normal;
+    background-color: white;
+    width: 90%;
+}
+
+body * {
+    height: auto;
+}
+
 h1 + ul {
 
     display: flex;
     justify-content: space-between;
 
+}
+
+h1::after, h2::after, h3::after {
+
+    width: fit-content;
+    padding-bottom: 0.125em;
+    float: left;
+    border-bottom: 1px solid black;
+
+}
+
+a {
+    color: rgb(117, 61, 105);
+    text-decoration: none;
+}
+a:hover {
+    color: rgb(140, 100, 150);
+    text-decoration:underline;
 }
