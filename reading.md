@@ -56,7 +56,7 @@ Martin, K. A. 1998. "Becoming a Gendered Body: Practices of Preschools." America
 
 [1] **NOT READ YET** Focault, Michel. 1979. "Discipline & Punish: the birth of the prison."
 
-[2] **READ** Gansen, Heidi M. 2017. "Reproducing (and Disrupting) Heteronormativity: Gendered Sexual Socialization in Preschool Classrooms." Sociology of Education, 90(3): 255-272.
+[2] **READ** Gansen, Heidi M. 2017. "Reproducing (and Disrupting) Heteronormativity: Gendered Sexual Socialization in Preschool Classrooms." Sociology of Education, 90(3): 255-272. (TW: SA, Consent, Grooming)
 
 ### (7.5/10) Twitter & Tear Gas
 
