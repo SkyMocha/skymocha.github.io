@@ -4,7 +4,7 @@
 - [Resume](/resume.pdf)
 - [Twitter](https://www.twitter.com/skymochi64)
 
-# Skye Kychenthal's Reading & Recommendations List
+## Skye Kychenthal's Reading & Recommendations List
 
 Inspired by [Ian Danskin](https://twitter.com/innuendostudios/status/1042937137702817793)'s Reading List and my friend [Kutub Gandhi](https://kksgandhi.github.io/personal_site/game_recommendations.html)'s games recommendations list!
 
