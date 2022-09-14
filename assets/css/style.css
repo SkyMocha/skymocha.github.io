@@ -3,7 +3,6 @@
 }
 
 body {
-    letter-spacing: 0.065em;
     display: block;
     position: absolute;
     left: 0px;
@@ -14,6 +13,7 @@ body {
     background-color: white;
     width: 80%;
     padding-left: 10%;
+    line-height: 1.625em;
 }
 
 body * {
@@ -29,11 +29,10 @@ h1 + ul {
 
 }
 
-h1::after, h2::after, h3::after {
+h1, h2, h3 {
 
-    width: fit-content;
+    letter-spacing: 0.0825em;
     padding-bottom: 0.125em;
-    float: left;
     border-bottom: 1px solid black;
 
 }
@@ -50,13 +49,14 @@ a:hover {
 p {
 
     letter-spacing: 0.075em;
+    font-size: 1.0325em;
     padding-left: 2em;
 
 }
 
 p, h2 + ul {
 
-    padding-left: 1em;
+    padding-left: 2em;
 
 }
 
