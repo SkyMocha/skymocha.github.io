@@ -1,5 +1,4 @@
 :root {
-    --padding-left: 1.5vw;
     font-family: 'Times New Roman', serif;
 }
 
@@ -13,7 +12,8 @@ body {
     overflow-y: scroll;
     line-break: normal;
     background-color: white;
-    width: 90%;
+    width: 80%;
+    padding-left: 10%;
 }
 
 body * {
@@ -22,8 +22,10 @@ body * {
 
 h1 + ul {
 
-    display: flex;
     justify-content: space-between;
+    list-style: none;
+
+    padding-left: 2em;
 
 }
 
@@ -43,4 +45,33 @@ a {
 a:hover {
     color: rgb(140, 100, 150);
     text-decoration:underline;
+}
+
+p {
+
+    letter-spacing: 0.075em;
+    padding-left: 2em;
+
+}
+
+p, h2 + ul {
+
+    padding-left: 1em;
+
+}
+
+@media only screen and (max-width: 500px) {
+    
+    h1 + ul {
+        display: block;
+    }
+
+}
+@media only screen and (min-width: 500px) {
+    
+    h1 + ul {
+        display: flex;
+        width: calc(300px + 20%);
+    }
+
 }

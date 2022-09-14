@@ -13,6 +13,7 @@ body {
     overflow-y: scroll;
     line-break: normal;
     background-color: white;
+    width: 90%;
 }
 
 body * {
