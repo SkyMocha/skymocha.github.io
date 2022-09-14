@@ -26,6 +26,8 @@ h1 + ul {
     list-style: none;
 
     padding-left: 2em;
+    font-weight: 600;
+    letter-spacing: 0.0725em;
 
 }
 
@@ -34,6 +36,20 @@ h1, h2, h3 {
     letter-spacing: 0.0825em;
     padding-bottom: 0.125em;
     border-bottom: 1px solid black;
+
+}
+
+h1 {
+    width: 80%;
+}
+
+h2 {
+    width: 70%;
+}
+
+h3 {
+
+    width: 50%
 
 }
 
