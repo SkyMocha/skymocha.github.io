@@ -25,7 +25,6 @@ h1 + ul {
     justify-content: space-between;
     list-style: none;
 
-    padding-left: 2em;
     font-weight: 600;
 
 }
@@ -57,13 +56,6 @@ p {
 
     letter-spacing: 0.075em;
     font-size: 1.0325em;
-    padding-left: 2em;
-
-}
-
-p + ul {
-
-    padding-left: 2em;
 
 }
 
@@ -79,6 +71,19 @@ p + ul {
     h1 + ul {
         display: flex;
         width: calc(300px + 20%);
+        padding-left: 2em;
+    }
+
+    p + ul {
+
+        padding-left: 1em;
+    
+    }
+
+    p {
+
+        padding-left: 1em;
+
     }
 
 }
