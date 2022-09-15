@@ -19,3 +19,5 @@ Kychenthal Skye. [Why Women Don't Code, But Trans Women Do](https://youtu.be/k3l
 ### In Progress
 
 Kychenthal Skye. [Fight Club's Incel To Exploitable Chad Pipeline](). YouTube. **TBD**.
+
+Kychenthal Skye. [D&D as a lens for viewing Gilgamesh]. skymocha.github.io. TBD.

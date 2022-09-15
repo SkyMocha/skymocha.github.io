@@ -72,6 +72,14 @@ p {
     
     }
 
+    p:has(img) + p {
+
+        width: calc(100% - 25px);
+        padding-left: 10px;
+        border-left: 1px solid black;
+        
+    }
+
 }
 @media (orientation: landscape) {
     
@@ -96,14 +104,13 @@ p {
 
     img {
 
-        width: calc(185px + 20%);
+        width: calc(200px + 20%);
 
     }
 
-    p img + p {
+    p:has(img) + p {
 
-        
-        width: calc(155px + 20%);
+        width: calc(165px + 20%);
         margin-left: 15px;
         border-left: 1px solid black;
         
