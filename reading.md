@@ -1,5 +1,5 @@
 - [Index](/)
-- [Publications](/pub_temp)
+- [Publications](/publications)
 - [Reading](/reading)
 - [Resume](/resume.pdf)
 - [Twitter](https://www.twitter.com/skymochi64)

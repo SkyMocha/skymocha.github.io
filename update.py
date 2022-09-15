@@ -76,8 +76,8 @@ updatePDF('Hum 110')
 
 print(paths)
 
-header_text = "\n* [Index](/)\n* [Publications](/pub_temp)\n* [Reading](/reading)\n* [Resume](/resume.pdf)\n* [Twitter](https://www.twitter.com/skymochi64)\n\n"
-info_text = "## Hello!\nI'm [Skye Kychenthal](https://www.skymocha.net). The purposes of this website are:\n* To facilitate an easier sharing of my class notes & getting in an open-source mindset.\n* To upload publications. \n* To upload static files IE. [publications.html (temporary)](/pub_temp.html) & [resume.pdf](/resume.pdf).\n\n"
+header_text = "\n* [Index](/)\n* [Publications](/publications)\n* [Reading](/reading)\n* [Resume](/resume.pdf)\n* [Twitter](https://www.twitter.com/skymochi64)\n\n"
+info_text = "## Hello!\nI'm [Skye Kychenthal](https://www.skymocha.net). The purposes of this website are:\n* To facilitate an easier sharing of my class notes & getting in an open-source mindset.\n* To upload publications. \n* To upload static files IE. [publications.html (temporary)](/publications) & [resume.pdf](/resume.pdf).\n\n"
 notes_text = '\n## Notes\nAll courses taken are at [Reed College](https://www.reed.edu). The most up-to-date course catalog can be found [here](https://www.reed.edu/catalog/). As all notes & work done here are written by Skye Kychenthal, they should NOT be submitted as your own original work. This is called plagarism.\n\n'
 
 os.chdir(root_path)
