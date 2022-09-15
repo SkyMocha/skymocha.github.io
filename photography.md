@@ -26,10 +26,10 @@ My intentions with photography are to capture a moment rather than an individual
 
 #### Examples
 
-![https://pbs.twimg.com/media/FWM3OfpWIAIK_MR?format=jpg&name=900x900](NYC Pride Image #1)
+![NYC Pride Image #1](https://pbs.twimg.com/media/FWM3OfpWIAIK_MR?format=jpg&name=900x900)
 
 This image includes an individual climbing poles in order to get a better view of Pride. Since this could be in violation of the law, the persons face
 
-![https://pbs.twimg.com/media/FWMg23GXoAATXrX?format=jpg&name=large](NYC Pride Image #2)
+![NYC Pride Image #2](https://pbs.twimg.com/media/FWMg23GXoAATXrX?format=jpg&name=large)
 
 This image includes a group of individuals in a low stakes situation (an impromptu counter-protest to anti-LGBT protestors at NYC Pride). As a result, faces were not blurred since it would not prove to be a danger to the individuals.
