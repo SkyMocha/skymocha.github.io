@@ -24,7 +24,23 @@ I did not finish reading this! Overall, I think the ideas are genuinely great, b
 
 ### Notes
 
-TBD
+- Durkheim → Group-think (psychological term too)
+- Sociology History!
+  - Mead did sociology during rapid urbanization around the time of WW1 and WW2 →
+    - One of the people (Mead) who wanted to study how people were supposed to exist within such rapid and centralized urbanization
+    - Muckrakers → How were the workers being exploited in America?
+      - Sociology in U of Chicago started with aligning with Muckrakers.
+      - Muckrakers v. Elites
+        - Muckrakers → for the workers
+        - Elites
+          - Often utilized certain things like racism to stay in power
+    - How were selves created from the individual upwards?
+      - How do we understand society?
+    - “Science of humanity”
+    - What psychologists (piaget, freud) wanted for sociology
+    - Sociologists (U of Chicago, etc.) disagreed with “context is everything”
+      - Micro vs. Micro
+      - Study & observe what happens between people
 
 ## Thursday
 
@@ -40,13 +56,20 @@ Haven’t finished this one so I will come back to my numerous thoughts later. C
 
 ### Notes
 
-TBD
+- Sociology → “otherness” in U.S. cities
+  - Uses pluralistic research methods;
+    - Ethnography (similar to anthropology)
+  - Similar in a lot of ways to anthropology
+    - Anthropology → Otherness in places and cultures
+  - Borrows from:
+    - Poli sci
+    - Uses data sets. etc.
 
 ## Citations
 
-Foucault, Michel. 1995. Discipline and Punish: The Birth of the Prison. 2nd Vintage Books ed. New York: Vintage Books.
-Gansen, Heidi M. 2017. “Reproducing (and Disrupting) Heteronormativity: Gendered Sexual Socialization in Preschool Classrooms.” Sociology of Education 90(3):255–72. doi: 10.1177/0038040717720981.
-Martin, Karin A. 1998. “Becoming a Gendered Body: Practices of Preschools.” American Sociological Review 63(4):494. doi: 10.2307/2657264.
-Mead, George Herbert, Charles W. Morris, Daniel R. Huebner, and Hans Joas. 2015. Mind, Self, and Society. The definitive edition. Chicago ; London: University of Chicago Press.
-Ragin, Charles C., and Lisa M. Amoroso. 2011. Constructing Social Research: The Unity and Diversity of Method. 2nd ed. Los Angeles: SAGE Publications.
-Streib, Jessi. 2011. “Class Reproduction by Four Year Olds.” Qualitative Sociology 34(2):337–52. doi: 10.1007/s11133-011-9193-1.
+- Foucault, Michel. 1995. Discipline and Punish: The Birth of the Prison. 2nd Vintage Books ed. New York: Vintage Books.
+- Gansen, Heidi M. 2017. “Reproducing (and Disrupting) Heteronormativity: Gendered Sexual Socialization in Preschool Classrooms.” Sociology of Education 90(3):255–72. doi: 10.1177/0038040717720981.
+- Martin, Karin A. 1998. “Becoming a Gendered Body: Practices of Preschools.” American Sociological Review 63(4):494. doi: 10.2307/2657264.
+- Mead, George Herbert, Charles W. Morris, Daniel R. Huebner, and Hans Joas. 2015. Mind, Self, and Society. The definitive edition. Chicago ; London: University of Chicago Press.
+- Ragin, Charles C., and Lisa M. Amoroso. 2011. Constructing Social Research: The Unity and Diversity of Method. 2nd ed. Los Angeles: SAGE Publications.
+- Streib, Jessi. 2011. “Class Reproduction by Four Year Olds.” Qualitative Sociology 34(2):337–52. doi: 10.1007/s11133-011-9193-1.
