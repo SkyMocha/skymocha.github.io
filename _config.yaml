@@ -26,12 +26,12 @@ og_image             : "/assets/imgs/CatEarsThumb.png"
 
 defaults:
   - scope            : 
-      path           : "publications.html"
+      path           : "publications.md"
     values           :
       title          : "Skye Kychenthal Publications"
       description    : "Skye Kychenthal Publications including Why The Trans Programmer and Fight Club's Incel To Exploitable Chad Pipeline"
   - scope            : 
-      path           : "reading.html"
+      path           : "reading.md"
     values           :
       title          : "Skye Kychenthal Recommended Readings"
       description    : "Skye Kychenthal's Recommended Reading List"
