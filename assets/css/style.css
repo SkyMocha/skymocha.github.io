@@ -106,6 +106,7 @@ body * {
         p+ul {
 
             padding-left: 1em;
+            padding-right: 1em;
 
         }
 
@@ -114,6 +115,11 @@ body * {
             padding-left: 1em;
             padding-right: 1em;
 
+        }
+
+        ol {
+            padding-right: 3em;
+            padding-left: -1em;
         }
 
         img {
@@ -177,15 +183,6 @@ body * {
     li {
         font-size: 6pt;
         margin-left: -18pt;
-    }
-
-    ul * {
-        line-height: 10pt;
-    }
-
-    ul {
-        margin-top: -2pt;
-        margin-bottom: -2pt;
     }
 
 }

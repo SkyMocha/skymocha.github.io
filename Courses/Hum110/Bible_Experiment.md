@@ -96,9 +96,7 @@ TBA
 
 ### Cite as
 
-Kychenthal Skye. _Skye Kychenthal's Bible Experiment_. skymocha.github.io. September 2022. 
-
-Retrieved (https://skymocha.github.io/Courses/Hum110/Bible_Experiment).
+* Kychenthal Skye. _Skye Kychenthal's Bible Experiment_. skymocha.github.io. September 2022. Retrieved (https://skymocha.github.io/Courses/Hum110/Bible_Experiment).
 
 ### Citations
 
