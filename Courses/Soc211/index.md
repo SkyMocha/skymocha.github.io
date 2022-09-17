@@ -4,11 +4,16 @@
 - [Resume](/resume.pdf)
 - [Twitter](https://www.twitter.com/skymochi64)
 
+## Skye Kychenthal Soc 211
+
+The focus of my sociology class is reading, and as a result, I focus highly on giving my thoughts and opinions on different sociological texts. 
+
 ## Soc 211 Class Notes & Papers
 
-- [SOC 211 / Week 1](Week1)
-- [SOC 211 / Week 2](Week2)
-- [SOC 211 / Week 3](Week3)
+- [Week 1: The Sociological Imagination](Week1)
+- [Week 2: Socialization: Martin, Gansen, Streib](Week2)
+- [Week 3: Socialization: Lareau 2011](Week3)
+- [Week 4: Socialization]()
 
 ## Notes
 

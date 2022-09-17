@@ -23,6 +23,7 @@ exclude              :
 twitter              :
   username           : &twitter 
 og_image             : "/assets/imgs/CatEarsThumb.png"
+image                : "/assets/imgs/CatEarsThumb.png"
 
 defaults:
   - scope            : 
@@ -38,12 +39,20 @@ defaults:
       og_description : "Skye Kychenthal's Recommended Reading List"
       og_title       : "Skye Kychenthal Recommended Readings"
   - scope            : 
+      path           : "Courses/Hum110/Bible_Experiment.md"
+    values           :
+      title          : "Skye Kychenthal's Bible Experiment"
+      description    : "Exploration of Genesis through the lens of Mindf*ck by Christopher Wylie & HumanKind by Rutger Bregman to test hypotheses regarding alt-right radicalization and a theocratic theory of naivete"
+      og_description : "Exploration of Genesis through the lens of Mindf*ck by Christopher Wylie & HumanKind by Rutger Bregman to test hypotheses regarding alt-right radicalization and a theocratic theory of naivete"
+      og_title       : "Skye Kychenthal's Bible Experiment"
+  - scope            : 
       path           : "Courses"
     values           :
       title          : "Skye Kychenthal Course Notes"
       description    : "Skye Kychenthal's Course Notes"
       og_description : "Skye Kychenthal's Course Notes"
       og_title       : "Skye Kychenthal Course Notes"
+
 
 author:
   name               : "Skye Kychenthal"

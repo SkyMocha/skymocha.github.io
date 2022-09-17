@@ -1,4 +1,4 @@
-# Week 2
+# Week 2: Socialization: Martin 1998, Gansen 2017, Streib 2011
 
 ## Readings
 

@@ -4,7 +4,7 @@
 
 - (Lareau 2011)
 
-## Tuesday
+## Thoughts on Lareau
 
 ### Notes
 
