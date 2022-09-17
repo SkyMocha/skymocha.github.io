@@ -1,12 +1,18 @@
+- [Index](/)
+- [Publications](/publications)
+- [Reading](/reading)
+- [Resume](/resume.pdf)
+- [Twitter](https://www.twitter.com/skymochi64)
+
 # Week 4 Hum 110: Skye Kychenthal's Bible Experiment  
 
 ## Timeline to completion
 
 CURRENTLY INCOMPLETE. LAST UPDATE 9/17/2022 at 2:15PM PST
 
-- 9/17/2022 to 9/19/2022 $\to$ Dissection of Genesis, Creation of DQs
-- 9/20/2022 $\to$ Class & Proposal of DQs
-- 9/21/2022 - ? $\to$ Post-Mortem
+- 9/17/2022 to 9/19/2022 --> Dissection of Genesis, Creation of DQs
+- 9/20/2022 --> Class & Proposal of DQs
+- 9/21/2022 to ? --> Post-Mortem
 
 ## Abstract
 
@@ -69,7 +75,7 @@ Women. While man may be good, the bible throughout implies men are superior to w
 ### God becomes is the police state (Hypothesis #2)
 
 #### Argument
-The story of Cain & Abel (4:8 $\to$ 4:17) is the first instance in the Genesis of murder. Cain, in killing Abel, is banished by God himself, and despite Cain's wishes, is not allowed to die as punishment. For people who adhere to the bible, it is clear that acts of jealousy & especially acts of violence will result in direct punishment from God. It is not the state or the police that governs, but a deity that directly imposes their values onto the populous.
+The story of Cain & Abel (4:8 --> 4:17) is the first instance in the Genesis of murder. Cain, in killing Abel, is banished by God himself, and despite Cain's wishes, is not allowed to die as punishment. For people who adhere to the bible, it is clear that acts of jealousy & especially acts of violence will result in direct punishment from God. It is not the state or the police that governs, but a deity that directly imposes their values onto the populous.
 
 #### Complication
 In modern times, Catholic extremists do hold prejudices and violent ones against women & minorities. I don't think this actually contradicts the tale of Cain and Abel. The bible can be interpreted to see dark people as bad, women as subservient to men, and trans people as abnormal (as stated in [The Bible inherently supports alt-right ideology](#the-bible-inherently-supports-alt-right-ideology-hypothesis-1)). The murder of ones own hegemonic group is bad, murder of an "abnormal" group is okay.
@@ -90,7 +96,9 @@ TBA
 
 ### Cite as
 
-* Kychenthal Skye. _Skye Kychenthal's Bible Experiment_. skymocha.github.io. September 2022. Retrieved (https://skymocha.github.io/Courses/Hum110/Bible_Experiment).
+Kychenthal Skye. _Skye Kychenthal's Bible Experiment_. skymocha.github.io. September 2022. 
+
+Retrieved (https://skymocha.github.io/Courses/Hum110/Bible_Experiment).
 
 ### Citations
 

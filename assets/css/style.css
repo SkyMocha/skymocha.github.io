@@ -6,9 +6,6 @@ body {
 
     left: 0px;
     top: 0px;
-    
-    width: 80%;
-    padding-left: 10%;
 
     background-color: white;
 
@@ -21,7 +18,7 @@ body * {
     height: auto;
 }
 
-h1 + ul {
+h1+ul {
 
     justify-content: space-between;
     list-style: none;
@@ -30,13 +27,9 @@ h1 + ul {
 
 }
 
-ul li {
-
-    letter-spacing: 0.0725em;
-
-}
-
-h1, h2, h3 {
+h1,
+h2,
+h3 {
 
     letter-spacing: 0.0825em;
     padding-bottom: 0.125em;
@@ -48,51 +41,68 @@ a {
     color: rgb(117, 61, 105);
     text-decoration: none;
 }
+
 a:hover {
     color: rgb(140, 100, 150);
-    text-decoration:underline;
+    text-decoration: underline;
 }
 
-p {
+p,
+li {
 
     letter-spacing: 0.075em;
-    font-size: 1.0325em;
+    font-size: 1.0375em;
 
 }
 
 @media (orientation: portrait) {
-    
-    h1 + ul {
+
+    body {
+
+        width: 85%;
+        padding-left: 7.5%;
+
+    }
+
+    h1+ul {
         display: block;
     }
 
     img {
 
         width: 100%;
-    
+
     }
 
-    p:has(img) + p {
+    p:has(img)+p {
 
         width: calc(100% - 25px);
         padding-left: 10px;
         border-left: 1px solid black;
-        
+
     }
 
 }
+
 @media (orientation: landscape) {
-    
-    h1 + ul {
+
+    body {
+
+        width: 70%;
+        padding-left: 15%;
+
+    }
+
+    h1+ul {
         display: flex;
         width: calc(300px + 20%);
         padding-left: 2em;
     }
 
-    p + ul {
+    p+ul {
 
         padding-left: 1em;
-    
+
     }
 
     p {
@@ -108,12 +118,46 @@ p {
 
     }
 
-    p:has(img) + p {
+    p:has(img)+p {
 
         width: calc(165px + 20%);
         margin-left: 15px;
         border-left: 1px solid black;
-        
+
     }
 
-}   
+}
+
+
+@media print {
+
+    * {
+        border: none;
+    }
+
+    h1+ul {
+        display: none;
+    }
+
+    h1 {
+
+        font-size: 16pt;
+
+    }
+
+    h2,
+    h3,
+    h4 {
+
+
+        font-size: 14pt;
+
+    }
+
+    p {
+
+        font-size: 12pt;
+
+    }
+
+}
