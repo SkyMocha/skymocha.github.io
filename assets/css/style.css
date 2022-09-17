@@ -131,8 +131,15 @@ li {
 
 @media print {
 
-    * {
-        border: none;
+    body {
+
+        width: 90%;
+        padding-left: 5%;
+
+    }
+
+    body * {
+        border-bottom: none !important;
     }
 
     h1+ul {
@@ -141,7 +148,7 @@ li {
 
     h1 {
 
-        font-size: 16pt;
+        font-size: 12pt;
 
     }
 
@@ -150,13 +157,13 @@ li {
     h4 {
 
 
-        font-size: 14pt;
+        font-size: 10pt;
 
     }
 
     p {
 
-        font-size: 12pt;
+        font-size: 8pt;
 
     }
 
