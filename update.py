@@ -70,9 +70,9 @@ def updatePDF(course):
 
 
 updatePDF('Math 111')
-updatePDF('csci 122')
-updatePDF('Soc 211')
-updatePDF('Hum 110')
+# updatePDF('csci 122')
+# updatePDF('Soc 211')
+# updatePDF('Hum 110')
 
 print(paths)
 

@@ -10,14 +10,17 @@ Hi! I'm [Skye Kychenthal](https://www.skymocha.net). The purposes of this websit
 
 - To facilitate an easier sharing of my class notes & getting in an open-source mindset.
 - To upload publications.
-- To upload static files IE. [publications.html (temporary)](/pub_temp.html) & [resume.pdf](/resume.pdf).
+- To upload important pages:
+    - [Publications Page](/publications) 
+    - [Photography Statement & Ethics](/photography)
+    - [Resume PDF](/resume.pdf).
 
 ## Courses
 
 - [MATH 111](Math 111)
 - [CSCI 122](csci 122)
-- [SOC 211](Soc211/)
-- [HUM 110](Hum 110)
+- [SOC 211](Courses/Soc211/)
+- [HUM 110](Courses/Hum110/)
 
 ## Notes
 

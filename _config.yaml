@@ -1,6 +1,50 @@
-title: Skye Kychenthal
-description: Skye Kychenthal's professional website!
-google_analytics: UA-200647300-2
+# Site-wide Config
+
+title                : Skye Kychenthal
+description          : Skye Kychenthal's professional website!
+locale               : en_US
+google_analytics     : UA-200647300-2
+keywords:
+  - SkyMocha
+  - Skye Kychenthal
 tags:
   - SkyMocha
   - Skye Kychenthal
+
+encoding             : "utf-8"
+
+exclude              :
+  - "/update.py"
+  - ".gitignore"
+  - ".prettierignore"
+
+twitter              :
+  username           : &twitter 
+og_image             : "/assets/imgs/CatEarsThumb.png"
+
+defaults:
+  - scope            : 
+      path           : "/publications"
+    values           :
+      description    : "Skye Kychenthal Publications including Why The Trans Programmer and Fight Club's Incel To Exploitable Chad Pipeline"
+      og_description : "Skye Kychenthal Publications including Why The Trans Programmer and Fight Club's Incel To Exploitable Chad Pipeline"
+      og_title       : "Skye Kychenthal Publications"
+  - scope            : 
+      path           : "/reading"
+    values           :
+      description    : "Skye Kychenthal's Recommended Reading List"
+      og_description : "Skye Kychenthal's Recommended Reading List"
+      og_title       : "Skye Kychenthal Recommended Readings"
+
+author:
+  name               : "Skye Kychenthal"
+  avatar             : "/assets/imgs/CatEarsThumb.png"
+  location           : "NYC & PDX"
+  googlescholar      : "https://scholar.google.com/citations?user=GGoRK98AAAAJ"
+  email              : "skychenthal@gmail.com"
+  github             : "skymocha"
+  instagram          : "skymochi64"
+  linkedin           : "skymocha"
+  orcid              : "https://orcid.org/0000-0001-9770-9224"
+  twitter            : "sky mochi64"
+  youtube            : "SkyMocha"

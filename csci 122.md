@@ -6,7 +6,7 @@
 * [Twitter](https://www.twitter.com/skymochi64)
 
 ## CSCI 122 Class Notes & Homework 
-* [CSCI 122 / Week1.pdf](csci 122/Week1.pdf)
+* [CSCI 122 / Week1.pdf](Courses/csci 122/Week1.pdf)
 
 ## Notes
 All courses taken are at [Reed College](https://www.reed.edu). The most up-to-date course catalog can be found [here](https://www.reed.edu/catalog/). As all notes & work done here are written by Skye Kychenthal, they should NOT be submitted as your own original work. This is called plagarism.
