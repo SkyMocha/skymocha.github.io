@@ -17,6 +17,8 @@ exclude              :
   - "/update.py"
   - ".gitignore"
   - ".prettierignore"
+  - "/pub_temp.html"
+  - "README.md"
 
 twitter              :
   username           : &twitter 
@@ -24,17 +26,24 @@ og_image             : "/assets/imgs/CatEarsThumb.png"
 
 defaults:
   - scope            : 
-      path           : "/publications"
+      path           : "publications.html"
     values           :
+      title          : "Skye Kychenthal Publications"
       description    : "Skye Kychenthal Publications including Why The Trans Programmer and Fight Club's Incel To Exploitable Chad Pipeline"
-      og_description : "Skye Kychenthal Publications including Why The Trans Programmer and Fight Club's Incel To Exploitable Chad Pipeline"
-      og_title       : "Skye Kychenthal Publications"
   - scope            : 
-      path           : "/reading"
+      path           : "reading.html"
     values           :
+      title          : "Skye Kychenthal Recommended Readings"
       description    : "Skye Kychenthal's Recommended Reading List"
       og_description : "Skye Kychenthal's Recommended Reading List"
       og_title       : "Skye Kychenthal Recommended Readings"
+  - scope            : 
+      path           : "Courses"
+    values           :
+      title          : "Skye Kychenthal Course Notes"
+      description    : "Skye Kychenthal's Course Notes"
+      og_description : "Skye Kychenthal's Course Notes"
+      og_title       : "Skye Kychenthal Course Notes"
 
 author:
   name               : "Skye Kychenthal"
@@ -46,5 +55,5 @@ author:
   instagram          : "skymochi64"
   linkedin           : "skymocha"
   orcid              : "https://orcid.org/0000-0001-9770-9224"
-  twitter            : "sky mochi64"
+  twitter            : "skymochi64"
   youtube            : "SkyMocha"
