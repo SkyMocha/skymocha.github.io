@@ -80,13 +80,21 @@ The story of Cain & Abel (4:8 --> 4:17) is the first instance in the Genesis of 
 #### Complication
 In modern times, Catholic extremists do hold prejudices and violent ones against women & minorities. I don't think this actually contradicts the tale of Cain and Abel. The bible can be interpreted to see dark people as bad, women as subservient to men, and trans people as abnormal (as stated in [The Bible inherently supports alt-right ideology](#the-bible-inherently-supports-alt-right-ideology-hypothesis-1)). The murder of ones own hegemonic group is bad, murder of an "abnormal" group is okay.
 
+#### Complication to Complication
+
+Jesus is not white. God, realistically, is not white.
+
+#### Counterargument
+
+It could be argued that God cannot be the police state within the context of Genesis. Genesis 8:2 basically states that God kinda... just forgot about Noah for 150 days before stopping the great deluge. God is not some omnipresent being, but, as God creates man in His image, God is just a very powerful man. If God is simply just a very powerful man and not omnipresent, he cannot be the "thought police" for all of civilization as stated in the _theocratic theory of naivete_. Because of events like "judgement" and "the rapture" of which I know nothing, it could be argued that God is omnipresent, at least at the death of an individual. For my argument that [God becomes the police statement](#god-becomes-is-the-police-state-hypothesis-2) to work, God has to be omni-present at the very least when judging whether a human goes to Heaven or Hell.
+
 ## Class
 
 Class in which my discussion questions will be posted shalt be held on 9/20/2022.
 
 ### Discussion Question
 
-TBD
+Literature on right-wing radicalization shows that people who feel "in the closet" about racist, misogynist, and transphobic ideas are some of the most susceptible to radicalization. How can our translation of Genesis be interpreted in a way contributing to the racist, misogynistic, and transphobic ideas at the root of the right-wing "closeted" identity in America. Specifically: 1:4, 1:28, & 2:23. Further, is this a miss-understanding of how the Genesis should be viewed as a biblical text or are these prejudices built into the Genesis? 
 
 ### Discussion
 
