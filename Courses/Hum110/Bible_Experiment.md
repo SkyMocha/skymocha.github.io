@@ -8,11 +8,7 @@
 
 ## Timeline to completion
 
-CURRENTLY INCOMPLETE. LAST UPDATE 9/17/2022 at 2:15PM PST
-
-- 9/17/2022 to 9/19/2022 --> Dissection of Genesis, Creation of DQs
-- 9/20/2022 --> Class & Proposal of DQs
-- 9/21/2022 to ? --> Post-Mortem
+CURRENTLY INCOMPLETE. LAST UPDATE 9/20/2022 at 10:30 AM PST
 
 ## Abstract
 
@@ -94,11 +90,92 @@ Class in which my discussion questions will be posted shalt be held on 9/20/2022
 
 ### Discussion Question
 
-Literature on right-wing radicalization shows that people who feel "in the closet" about racist, misogynist, and transphobic ideas are some of the most susceptible to radicalization. How can our translation of Genesis be interpreted in a way contributing to the racist, misogynistic, and transphobic ideas at the root of the right-wing "closeted" identity in America. Specifically: 1:4, 1:28, & 2:23. Further, is this a miss-understanding of how the Genesis should be viewed as a biblical text or are these prejudices built into the Genesis? 
+My discussion question has some preface, especially since I am biased against the bible and  could be controversial. I think that the most important lessons we can gain from history & the humanities are from how we compare the past to our present. My discussion question will focus on the modern alt-right, which I would classify as religious extremism. Since the Torah is a  basis for the Christian Bible, I want to explore how the Torah can lead to modern alt-right Christian fundamentalist ideals. So here's my discussion question:
+
+> Literature on right-wing radicalization shows that people who feel "in the closet" about racist, misogynist, and transphobic ideas are some of the most susceptible to radicalization. How can our translation (and I emphasize our translation, as I have been told by friends who know Hebrew well this is not the accurate to how they view the Torah) of Genesis be interpreted in a way contributing to the racist, misogynistic, and transphobic ideas at the root of the right-wing "closeted" identity in America. Specifically: 1:4, 1:28, & 2:23 of our reading. Beyond this, in other translations similar to our bible [3:16: The Contemporary Torah](https://www.sefaria.org/Genesis.3.16?ven=The_Contemporary_Torah,_Jewish_Publication_Society,_2006&lang=bi&with=Translations&lang2=en) Further, 
+
+1. is this a miss-understanding of how the Genesis should be viewed as a biblical text or are these prejudices built into the Genesis? 
+2. if it is a miss-understanding, how do we view Christian extremism in this light?
+3. how can the Bible be a unifying force rather than dividing, as it has been in more contemporary history?
 
 ### Discussion
 
-TBA
+[https://www.sefaria.org/Genesis.1.1](https://www.sefaria.org/Genesis.1.1)
+
+- "Questions of identity can come to the floor, as people will read with a lens of their own experiences."
+    - "Blanket judgement should be avoided, and so should strict un-based condemnation of the text."
+    - What are my biases?  
+        - I am trans-femme and an atheist
+- Strategies on how to step outside of our assumptions?
+    - "Remove yourself entirely"
+    - "Awareness of biases towards the bible"
+    - "Separate religious institutions from faith"
+- Discussion
+    - "In the beginning" establishes authority
+        - And an authority of extreme significance
+    - "Diaspora"
+        - *Definition* Leaving what is considered to be a homeland.
+        - "The people who redacted the Torah were mesopotamian Jews who were kicked out of Israel"
+            - "Fallen out of Gods graces"
+                - "Not a morality for winners"
+                - "We are in charge, so we need to be kind"
+                    - "Instead, how do you survive through God's hardship"
+                        - "A meaning that can be lost in Christian religion"
+            - Morality is harsh
+                - Because it's not for a dominant culture
+        - There is a difference between the interpretations of the diaspora using the bible and the majority using the bible
+            - The majority being Christian fundamentalism
+            - Conscientious objectors to military action can be from interpretations of The Bible
+    - It is a privilege to separate the bible from personal context
+        - "How has it been used to impact people's lives"
+    - [3:16: The Contemporary Torah](https://www.sefaria.org/Genesis.3.16?ven=The_Contemporary_Torah,_Jewish_Publication_Society,_2006&lang=bi&with=Translations&lang2=en)
+        - Has to be read with context
+        - "Not the direct word of God"
+            - "People writing a long time after the word of God, trying to make sure of what he said"
+                - "And trying to make sense of their material realities"
+                    - "Being a woman in society is hard - it needs to be pushed against or justified"
+        - The serpent?
+            - "Why do snakes look so different from lizards?"
+                - "How can God explain evolution.
+            - "Why did the snake tempt Eve?"
+                - "Because God is hiding something from Adam & Eve"
+                    - "And with having it they will become like gods"
+                - "But... like... why did the serpent do that?"
+                    - "A creation of God working against another creation of God."
+                    - "Knowledge makes her eat the fruit"
+                        - "Because the serpent tempted her into eating the fruit - giving her knowledge of the fruit"
+                - "Wisdom is evil"
+                    - "Don't try and play God or punishment"
+                        - "There is one God, and you cannot aspire to be a second God."
+                            - "Monotheism"
+        - "Directly just talks about giving birth and how hard it is."
+        - "She keeps giving birth to make her husband love her"
+            - "Shows also a love to God."
+                - "Giving birth can be seen as a power for women"
+                    - "But also brings about hardship."
+        - "'He shall rule over you' is a punishment"
+            - "Adam is also punished severely; not just Eve"
+    - "This is just a beginning of the world story"
+        - "It's not an inherent endorsement of how to treat people."
+            - "God could just be protecting monotheism, or just punishment for one person"
+        - "The Bible is not telling you 'how you should act'"
+    - "Morality is something that exists"
+        - "Good" or "bad" interpretations
+            - "We are already taking on logic that's established"
+    - "The relationship between men and women is not good"
+        - "Why would you continue to exist in misogynistic systems"
+    - "Being a parent is hard"
+        - "The bible puts into words why possibly being a parent, and especially giving birth, is so damned hard."
+    - "Covenant"
+        - "Agreement or promise"
+            -  "How does the bible create a covenant?"
+                - "Noah sacrifices on the mound"
+                    - "Sacrifice used to be a key aspect of religion - temple is important as a key relation to God"
+- Is sociology just my 'biblical' explanation for the ways in which society functions?
+
+## Post-mortem
+
+TODO
 
 ## Citations
 
@@ -108,10 +185,12 @@ TBA
 
 ### Citations
 
+* Berlin, Adele, ed. 2014. The Jewish Study Bible: Jewish Publication Society Tanakh Translation. 2. ed. New York: Oxford Univ. Press.
+
 * Bregman, Rutger, Elizabeth Manton, and Erica Moore. 2020. Humankind: A Hopeful History. First English-language edition. New York, NY: Little, Brown and Company.
 
 * Martin S. Jaffee, excerpts from Early Judaism: Religious Worlds of the First Judaic Millennium, second ed. (Bethesda:  University Press of Maryland, 2006), pp. 1-28.
 
-* Berlin, Adele, ed. 2014. The Jewish Study Bible: Jewish Publication Society Tanakh Translation. 2. ed. New York: Oxford Univ. Press.
+* The Contemporary Torah, Jewish Publication Society, 2006
 
 * Wylie, Christopher. 2019. Mindf*ck: Cambridge Analytica and the Plot to Break America. First edition. New York: Random House.
