@@ -4,6 +4,8 @@
 - [Resume](/resume.pdf)
 - [Twitter](https://www.twitter.com/skymochi64)
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5FBU2H)
+
 ## Hello!
 
 Hi! I'm [Skye Kychenthal](https://www.skymocha.net). The purposes of this website are:
