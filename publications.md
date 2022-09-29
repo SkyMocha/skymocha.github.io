@@ -12,8 +12,7 @@
 
 - Kychenthal Skye. _[Why Women Don't Code, But Trans Women Do](https://youtu.be/k3lAdCd6f84)_. YouTube. April 16, 2022.
 
-- Kychenthal Skye. _[Fight Club's Incel To Exploitable Chad Pipeline]()_. YouTube. October 23, 2022.
-  - Available as: [Google Doc Script]().
+- Kychenthal Skye. _[Fight Club's Incel To Exploitable Chad Pipeline](https://docs.google.com/document/d/e/2PACX-1vQwOjuqOwRl0imN_1oWUjxrMBLOvWjfdz_zpDBxhsyawqbbzjPjWHIJncOSXJ5ymq9z89mX2myDlhIL/pub)_. YouTube. October 23, 2022.
 
 <!-- ### Selected Reed College Papers -->
 
