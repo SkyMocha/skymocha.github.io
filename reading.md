@@ -63,3 +63,5 @@ Have only read chapter 4. Reading for Sociology. This book is making me question
 ### (7.5/10) _Tracing The Roots of Pop Culture Transphobia_, _Lindsey Ellis_. 2021. YouTube.
 
 Highly recommend. Lindsey Ellis explores the pop culture roots of transphobia in the media we watch. Genuinely super informative video, especially for its short duration of just under one hour!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5FBU2H)

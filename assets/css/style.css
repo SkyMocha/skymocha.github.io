@@ -61,7 +61,7 @@ body * {
 
     a:has(img) img {
 
-        width: 8em;
+        width: 14em;
 
     }
 
@@ -139,12 +139,6 @@ body * {
             width: calc(165px + 20%);
             margin-left: 15px;
             border-left: 1px solid black;
-
-        }
-
-        a:has(img) img {
-
-            padding-left: 1em;
 
         }
 
