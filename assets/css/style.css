@@ -59,7 +59,7 @@ body * {
 
     }
 
-    a:has(img) {
+    a:has(img) img {
 
         width: 8em;
 
@@ -142,7 +142,7 @@ body * {
 
         }
 
-        a:has(img) {
+        a:has(img) img {
 
             padding-left: 1em;
 

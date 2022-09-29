@@ -10,10 +10,15 @@ The focus of my sociology class is reading, and as a result, I focus highly on g
 
 ## Soc 211 Class Notes & Papers
 
+### Part One: Socialization & Families
+
 - [Week 1: The Sociological Imagination](Week1)
 - [Week 2: Socialization: Martin, Gansen, Streib](Week2)
-- [Week 3: Socialization: Lareau 2011](Week3)
-- [Week 4: Socialization]()
+- [Week 3: Socialization/Families: Lareau 2011](Week3)
+- [Week 4: Families: Black Masculinity](Week4)
+- [Week 5: Families: Invisible Families]
+
+### Part Two: Labor, Citizenship, Capitalism
 
 ## Notes
 
