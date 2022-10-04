@@ -20,6 +20,9 @@ The story of Cain & Abel presents us the first instance of murder within the sto
 > 
 > (Bregman 2019: p. 233)
 
+### God’s punishments are inevitable.
+Throughout the 17th century, punishments and torture shifted from deterrence through public spectacle to deterrence through the inevitability of punishment. (Foucault, 9) Ecclesiastes 12:14 states “that God will call every creature to account everything unknown, be it good or bad.” (Jewish Publication Society) God, in this context, gains a sort of inevitability to punishment. That any deed, whether good or bad, even ones that no one other than the doer knows of, will be seen by God and more importantly judged by God. This is similar to our modern systems of deterrence; however, the story of Cain and Abel shows us a different perspective to God’s punishments. Cain is sent to wander the earth, unable to be killed, despite wanting death after murdering Abel (CITE). Cain’s punishment, therefore, is spectacle (Focault 9) as much as it is inevitable. God’s punishments throughout Genesis take on a role more similar to spectacle, as God floods the earth to purify humanitiy. God’s punishment therefore takes on two separate roles of deterrence: spectacle and inevitability; though, God’s theatrical punishments can also be seen as disproportional to the crime (Focault 9). This could explain why methods of punishment took on a more theatrical tone, such as quartering, since punishments before the reform were guided by theocratic systems rather than republican systems. A move from theocracy & monarchy to republic coincided with a move from spectacle to inevitable. God’s punishments throughout Genesis show us the spectacle combined with God’s unique role as the ultimate arbiter of justice.
+
 ### God act’s similarly to George Orwell’s 1984 or Foucault's Panopticon
 * Read Discipline & Punish finally
 * Skim over more of 1984
@@ -29,5 +32,10 @@ The story of Cain & Abel presents us the first instance of murder within the sto
 
 ### Examining the story of Cain and Abel let’s us understand the purpose of religion
 * So why should I care?
+
+### Bibliography
+
+- Foucault, Michel. Discipline and Punish: The Birth of the Prison. 2nd Vintage Books ed, Vintage Books, 1995.
+- Jewish Publication Society, editor. Tanakh =: [Tanakh]: A New Translation of the Holy Scriptures According to the Traditional Hebrew Text. 1st ed, Jewish Publication Society, 1985.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5FBU2H)
