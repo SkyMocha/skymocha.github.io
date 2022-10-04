@@ -22,6 +22,8 @@
 
 ### In Progress Papers
 
-- Kychenthal Skye. [5,000 Years of Storytelling: Dungeons & Dragons as a lens of analysis for The Epic of Gilgamesh](https://osf.io/preprints/socarxiv/dxmhj/). SocArXiV. September 2022.
+- Kychenthal Skye. _[God Becomes The Police State](https://skymocha.github.io/Courses/Hum110/God_Becomes_The_Police_State)_. skymocha.github.io. TBD 2022. Retrieved (https://skymocha.github.io/Courses/Hum110/God_Becomes_The_Police_State).
+
+- Kychenthal Skye. [5,000 Years of Storytelling: Dungeons & Dragons as a lens of analysis for The Epic of Gilgamesh](https://osf.io/preprints/socarxiv/dxmhj/). SocArXiV. TBD 2022.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5FBU2H)
