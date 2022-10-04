@@ -52,14 +52,15 @@ body * {
     }
 
     p,
-    li {
+    li,
+    ul * {
 
         letter-spacing: 0.075em;
         font-size: 1.0375em;
 
     }
 
-    a:has(img) img {
+    a>img {
 
         width: 14em;
 

@@ -33,3 +33,5 @@ This image includes an individual climbing poles in order to get a better view o
 ![NYC Pride Image #2](https://pbs.twimg.com/media/FWMg23GXoAATXrX?format=jpg&name=large)
 
 This image includes a group of individuals in a low stakes situation (an impromptu counter-protest to anti-LGBT protestors at NYC Pride). As a result, faces were not blurred since it would not prove to be a danger to the individuals.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5FBU2H)

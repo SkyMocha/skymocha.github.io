@@ -9,3 +9,5 @@ Pick a chapter from Genesis that tells a self-contained story and explore what t
 Argument based on: [Week #4: Skye Kychenthal's Bible Experiment Hypothesis #2](Bible_Experiment#god-becomes-is-the-police-state-hypothesis-2)
 
 ## Abstract
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5FBU2H)

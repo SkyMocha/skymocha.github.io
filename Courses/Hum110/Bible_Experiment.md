@@ -194,3 +194,5 @@ TODO
 * The Contemporary Torah, Jewish Publication Society, 2006
 
 * Wylie, Christopher. 2019. Mindf*ck: Cambridge Analytica and the Plot to Break America. First edition. New York: Random House.
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5FBU2H)

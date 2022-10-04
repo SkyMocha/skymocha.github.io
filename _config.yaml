@@ -1,15 +1,19 @@
 # Site-wide Config
 
 title                : Skye Kychenthal
-description          : Skye Kychenthal's professional website!
+description          : Skye Kychenthal's professional website including a resume, publications page, papers, course notes, a recommended readings list, and more!
 locale               : en_US
 google_analytics     : UA-200647300-2
 keywords:
   - SkyMocha
   - Skye Kychenthal
+  - Skye Kychenthal Website
+  - SkyMocha Website
 tags:
   - SkyMocha
   - Skye Kychenthal
+  - Skye Kychenthal Website
+  - SkyMocha Website
 
 encoding             : "utf-8"
 
@@ -19,6 +23,7 @@ exclude              :
   - ".prettierignore"
   - "/pub_temp.html"
   - "README.md"
+  - /old/*
 
 twitter              :
   username           : &twitter 
@@ -35,8 +40,8 @@ defaults:
       path           : "reading.md"
     values           :
       title          : "Skye Kychenthal Recommended Readings"
-      description    : "Skye Kychenthal's Recommended Reading List"
-      og_description : "Skye Kychenthal's Recommended Reading List"
+      description    : "Skye Kychenthal's Recommended Reading List including Fight Club, Midnf*ck, Disco Elysium, and more!"
+      og_description : "Skye Kychenthal's Recommended Reading List including Fight Club, Midnf*ck, Disco Elysium, and more!"
       og_title       : "Skye Kychenthal Recommended Readings"
   - scope            : 
       path           : "Courses/Hum110/Bible_Experiment.md"
@@ -46,11 +51,18 @@ defaults:
       og_description : "Exploration of Genesis through the lens of Mindf*ck by Christopher Wylie & HumanKind by Rutger Bregman to test hypotheses regarding alt-right radicalization and a theocratic theory of naivete"
       og_title       : "Skye Kychenthal's Bible Experiment"
   - scope            : 
+      path           : "Courses/Hum110/God_Becomes_The_Police_State.md"
+    values           :
+      title          : "Skye Kychenthal's Paper: God Becomes The Police State"
+      description    : "Exploration of Genesis through the lens of Mindf*ck by Christopher Wylie & HumanKind by Rutger Bregman to test hypotheses regarding alt-right radicalization and a theocratic theory of naivete"
+      og_description : "Exploration of Genesis through the lens of Mindf*ck by Christopher Wylie & HumanKind by Rutger Bregman to test hypotheses regarding alt-right radicalization and a theocratic theory of naivete"
+      og_title       : "Skye Kychenthal's Paper: God Becomes The Police State"
+  - scope            : 
       path           : "Courses"
     values           :
       title          : "Skye Kychenthal Course Notes"
-      description    : "Skye Kychenthal's Course Notes"
-      og_description : "Skye Kychenthal's Course Notes"
+      description    : "Skye Kychenthal's course notes for their Reed College courses"
+      og_description : "Skye Kychenthal's course notes for their Reed College courses"
       og_title       : "Skye Kychenthal Course Notes"
 
 
