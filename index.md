@@ -17,7 +17,7 @@ Hi! I'm [Skye Kychenthal](https://www.skymocha.net). The purposes of this websit
 
 ## Courses
 
-- [MATH 111](Math 111)
+<!-- - [MATH 111](Math 111) -->
 - [CSCI 122](csci 122)
 - [SOC 211](Courses/Soc211/)
 - [HUM 110](Courses/Hum110/)

@@ -14,9 +14,15 @@ The focus of my sociology class is reading, and as a result, I focus highly on g
 
 - [Week 1: The Sociological Imagination](Week1)
 - [Week 2: Socialization: Martin, Gansen, Streib](Week2)
-- [Week 3: Socialization/Families: Lareau 2011](Week3)
-- [Week 4: Families: Black Masculinity](Week4)
+- [Week 3: Socialization/Families: Lareau 2011]
+- [Week 4: Families: Black Masculinity]
 - [Week 5: Families: Invisible Families]
+- [Paper #1: To Be Published]
+
+### Part Two: Captalism
+
+- [Week 6: Commodity Feteshization & Manufacturing Consent]
+- [Paper #2: To Be Written]
 
 ### Part Two: Labor, Citizenship, Capitalism
 
