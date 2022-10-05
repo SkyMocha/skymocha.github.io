@@ -18,14 +18,21 @@ The story of Cain & Abel presents us the first instance of murder within the sto
 
 > "... if you want to get thousands of stranger to work as a team, you need something to hold things together. This glue has to be stronger than friendliness ... the human brain is not equipped to juggle [hundreds] of meaningful relationships. Projects on [the] scale [of pyramids] call for... [leaders] to incentivize us. How? With myths. We learned to _imagine_ kinship with people we'd never met. Religions, states, companies, nations ... only exist in our minds. No one has ever ... shaken hands with 'the Roman Catholic Church.' But that doesn't matter if we sign on for the fiction. The most obvious example of such a myth is, of course, God." 
 > 
-> (Bregman 2019: p. 233)
+> (Bregman, 233)
+
+This theory states, quite simply, that gods and myths exist (or were created) to bring people together to create societies and societal projects. These societies then can create pyramids, rockets that go to the moon, or even conquer other societies. God is almost the original Big Brother; a concept from George Orwell's 1984 signifying a surveillance state that can even surveil a populations thoughts. These societies needed to create soldiers, farmers, construction workers; something Focault describes as the creation docile bodies (Focault 135). A docile body is a body or individual molded through discipline removing their individual power (Focault 138). God or Gods, in these early societies, serve to police the thoughts of citizens in a way that a police force can't. While in modern times we can attempt this through surveillance cameras and police officers; the Judaic God provides a surveillance stronger than any individual institution. 
 
 ### God’s punishments are inevitable.
 Throughout the 17th century, punishments and torture shifted from deterrence through public spectacle to deterrence through the inevitability of punishment. (Foucault, 9) [Ecclesiastes 12:14](https://www.sefaria.org/Ecclesiastes.12.14?ven=Tanakh:_The_Holy_Scriptures,_published_by_JPS&lang=bi&with=all&lang2=en) states “that God will call every creature to account everything unknown, be it good or bad.” (Jewish Publication Society) God, in this context, gains a sort of inevitability to punishment. That any deed, whether good or bad, even ones that no one other than the doer knows of, will be seen by God and more importantly judged by God. This is similar to our modern systems of deterrence; however, the story of Cain and Abel shows us a different perspective to God’s punishments. Cain is sent to wander the earth, unable to be killed, despite wanting death after murdering Abel (CITE). Cain’s punishment, therefore, is spectacle (Focault 9) as much as it is inevitable. God’s punishments throughout Genesis take on a role more similar to spectacle, as God floods the earth to purify humanitiy. God’s punishment therefore takes on two separate roles of deterrence: spectacle and inevitability; though, God’s theatrical punishments can also be seen as disproportional to the crime (Focault 9). This could explain why methods of punishment took on a more theatrical tone, such as quartering, since punishments before the reform were guided by theocratic systems rather than republican systems. A move from theocracy & monarchy to republic coincided with a move from spectacle to inevitable. God’s punishments throughout Genesis show us the spectacle combined with God’s unique role as the ultimate arbiter of justice.
 
 ### God act’s similarly to George Orwell’s 1984 or Foucault's Panopticon
-* Read Discipline & Punish finally
-* Skim over more of 1984
+* Read Discipline & Punish finally (or, well, parts of it *budum tssk*)
+    * Part Three - Discipline 
+        * Docile Bodies 135 - 170
+        * The means of correct training ? 170 - 195
+        * Panopticism 195 - 230
+* Skim over more of 1984 ?
+    * Realistically a close reading of the first 10 pages works just fine
 
 ### The story of Cain and Abel serves as an example of God’s policing
 * Thorough Analysis of Cain & Abel
@@ -35,7 +42,9 @@ Throughout the 17th century, punishments and torture shifted from deterrence thr
 
 ### Bibliography
 
+- Bregman, Rutger, et al. Humankind: A Hopeful History. First English-Language edition, Little, Brown and Company, 2020.
 - Foucault, Michel. Discipline and Punish: The Birth of the Prison. 2nd Vintage Books ed, Vintage Books, 1995.
 - Jewish Publication Society, editor. Tanakh =: [Tanakh]: A New Translation of the Holy Scriptures According to the Traditional Hebrew Text. 1st ed, Jewish Publication Society, 1985.
+- Orwell, George. 1984. 2020.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5FBU2H)
