@@ -14,16 +14,14 @@
 
 - Kychenthal Skye. _[Fight Club's Incel To Exploitable Chad Pipeline](https://skymocha.github.io/Fight_Club’s_Incel_To_Exploitable_Chad_Pipeline_Skye_Kychenthal.pdf)_. YouTube. October 23, 2022.
 
-<!-- ### Selected Reed College Papers -->
+### Selected Reed College Papers
+
+- Kychenthal Skye. _[God Becomes The Police State](https://skymocha.github.io/Courses/Hum110/God_Becomes_The_Police_State)_. [skymocha.github.io](https://skymocha.github.io/). October 8, 2022. Retrieved (https://skymocha.github.io/Courses/Hum110/God_Becomes_The_Police_State).
 
 ### Reed Quest Publications
 
 - Kychenthal Skye. _[A Deep Dive into Reed's Freshman Retention Woes](/Quest/9-16-2022.pdf)_. [The Reed College Quest](https://reedquest.org/). September 16, 2022.
 
-### In Progress Papers
-
-- Kychenthal Skye. _[God Becomes The Police State](https://skymocha.github.io/Courses/Hum110/God_Becomes_The_Police_State)_. skymocha.github.io. TBD 2022. Retrieved (https://skymocha.github.io/Courses/Hum110/God_Becomes_The_Police_State).
-
-- Kychenthal Skye. [5,000 Years of Storytelling: Dungeons & Dragons as a lens of analysis for The Epic of Gilgamesh](https://osf.io/preprints/socarxiv/dxmhj/). SocArXiV. TBD 2022.
+<!-- ### In Progress Papers -->
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5FBU2H)
