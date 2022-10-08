@@ -1,3 +1,9 @@
+- [Index](/)
+- [Publications](/publications)
+- [Reading](/reading)
+- [Resume](/resume.pdf)
+- [Twitter](https://www.twitter.com/skymochi64)
+
 # Week 3
 
 ## Readings

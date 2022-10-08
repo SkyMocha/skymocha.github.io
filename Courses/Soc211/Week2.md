@@ -1,3 +1,9 @@
+- [Index](/)
+- [Publications](/publications)
+- [Reading](/reading)
+- [Resume](/resume.pdf)
+- [Twitter](https://www.twitter.com/skymochi64)
+
 # Week 2: Socialization: Martin 1998, Gansen 2017, Streib 2011
 
 ## Readings
