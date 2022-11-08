@@ -16,13 +16,13 @@
 
 ### Selected Reed College Papers
 
-- Kychenthal Skye. _[God Becomes The Police State](https://skymocha.github.io/Courses/Hum110/God_Becomes_The_Police_State)_. [skymocha.github.io](https://skymocha.github.io/). October 8, 2022. Retrieved (https://skymocha.github.io/Courses/Hum110/God_Becomes_The_Police_State).
+- Kychenthal Skye. _[God Becomes The Police State](https://skymocha.github.io/Courses/Hum110/God_Becomes_The_Police_State)_. [skymocha.github.io](https://skymocha.github.io/). October 8, 2022.
 
 ### In Progress Works & Proposals
 
-- Kychenthal Skye. _[Proposal to article on grievance articulation among TERF & Gender Critical communities on Twitter](https://skymocha.github.io/Papers/Proopsal_Twitter_TERF_Grievance_Articulation.pdf)_. [skymocha.github.io](https://skymocha.github.io). November 8, 2022. Retrieved (https://skymocha.github.io/Proposal_Twitter_TERF_Grievance_Articulation.pdf).
+- Kychenthal Skye. _[Proposal to article on grievance articulation among TERF & Gender Critical communities on Twitter](https://skymocha.github.io/Papers/Proopsal_Twitter_TERF_Grievance_Articulation.pdf)_. [skymocha.github.io](https://skymocha.github.io). November 8, 2022.
 
-- Kychenthal Skye. _[Hesiod and Modern American Conservatism](https://skymocha.github.io/Courses/Hum110/Hesiod_and_MAGA.pdf)_. [skymocha.github.io](https://skymocha.github.io). November 12, 2022. Retrieved (https://skymocha.github.io/Courses/Hum110/Hesiod_and_MAGA.pdf).
+- Kychenthal Skye. _[Hesiod and Modern American Conservatism](https://skymocha.github.io/Courses/Hum110/Hesiod_and_MAGA.pdf)_. [skymocha.github.io](https://skymocha.github.io). November 12, 2022.
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5FBU2H)
 
