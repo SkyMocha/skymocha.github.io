@@ -10,10 +10,13 @@ The focus of my Hum 110 class is making me a better writer. I try to tackle chal
 
 ### Fall Semester
 
-- [Week #1 (PDF): Intro to Hum110](Week1.pdf)
+#### Quarter 1
 - [Paper #1: Viewing Gilgamesh through the lens of D&D](https://osf.io/preprints/socarxiv/dxmhj/)
 - [Week #4: Skye Kychenthal's Bible Experiment](Bible_Experiment)
 - [Paper #2: God Becomes The Police State](God_Becomes_The_Police_State)
+
+#### Quarter 2
+- [Paper 3: Hesiod and Modern American Conservatism](Hesiod_and_MAGA.pdf)
 
 ### Spring Semester
 

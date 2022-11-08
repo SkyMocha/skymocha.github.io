@@ -2,7 +2,7 @@
 - [Publications](/publications)
 - [Reading](/reading)
 - [Resume](/resume.pdf)
-- [Twitter](https://www.twitter.com/skymochi64)
+- [Linktr.ee](https://www.linktr.ee/skymocha)
 
 ## Skye Kychenthal's Reading & Recommendations List
 

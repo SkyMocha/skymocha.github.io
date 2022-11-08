@@ -77,6 +77,17 @@ body * {
 
         h1+ul {
             display: block;
+            margin-left: -1em;
+        }
+
+        ul {
+            margin-left: -2.5em;
+        }
+
+        li {
+
+            list-style: none;
+
         }
 
         img {
@@ -140,6 +151,14 @@ body * {
             width: calc(165px + 20%);
             margin-left: 15px;
             border-left: 1px solid black;
+
+        }
+
+        li:first-child:nth-last-child(1) {
+
+
+            padding-left: 1em;
+
 
         }
 
