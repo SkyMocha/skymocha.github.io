@@ -1,10 +1,14 @@
+- [Index](/)
+- [Publications](/publications)
+- [Linktr.ee](https://www.linktr.ee/skymocha)
+
 I am a trans-feminine non-binary jack-of-all-trades video-essayist, editor, photographer, poet, TikToker, model, programmer, sysadmin (unfortunate), researcher, and much, much more located in Portland, Oregon. 
 
 You can find me under one of three aliases:
 
-- SkyMocha (SFW)
-- SkyMochi64 (SFW)
-- SkyMochi256 (NSFW)
+* SkyMocha (SFW)
+* SkyMochi64 (SFW)
+* SkyMochi256 (NSFW)
 
 I graduated from The Peddie School in 2022. Since then, I have tried many things. Among the things I decided were not for me is college. I currently work as a video editor for [Nominal.Naomi](https://www.tiktok.com/@nominalnaomi), run an [OnlyFans](https://www.onlyfans.com/skymochi256) account, engage in local activism, and create entertainment & educational content on [YouTube](https://www.youtube.com/@skymochi64) and [TikTok](https://www.tiktok.com/@skymochi64).
 

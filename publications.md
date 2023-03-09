@@ -2,8 +2,6 @@
 - [Publications](/publications)
 - [Linktr.ee](https://www.linktr.ee/skymocha)
 
-# Ouptuts 
-
 ## TERF & Gender Critical Organizations
 
 - Kychenthal Skye. _[The Gender Critical Virus](https://www.youtube.com/@skymochi64)_. YouTube. January 7, 2023.
