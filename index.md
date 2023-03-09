@@ -1,37 +1,31 @@
-- [Index](/)
-- [Publications](/publications)
-<!-- - [Reading](/reading) -->
-<!-- - [Resume](/resume.pdf) -->
-- [Linktr.ee](https://www.linktr.ee/skymocha)
+I am a trans-feminine non-binary jack-of-all-trades video-essayist, editor, photographer, poet, TikToker, model, programmer, sysadmin (unfortunate), researcher, and much, much more located in Portland, Oregon. 
 
-# Hi! My name is Skye Kychenthal!
+You can find me under one of three aliases:
 
-So uh, I dropped out of college. Going to figure out what to do with this website :)
+- SkyMocha (SFW)
+- SkyMochi64 (SFW)
+- SkyMochi256 (NSFW)
 
-Please share this domain as skyekychenthal.com for that sweet sweet SEO
+I graduated from The Peddie School in 2022. Since then, I have tried many things. Among the things I decided were not for me is college. I currently work as a video editor for [Nominal.Naomi](https://www.tiktok.com/@nominalnaomi), run an [OnlyFans](https://www.onlyfans.com/skymochi256) account, engage in local activism, and create entertainment & educational content on [YouTube](https://www.youtube.com/@skymochi64) and [TikTok](https://www.tiktok.com/@skymochi64).
 
-<!-- <!-- Hi! I'm [Skye Kychenthal](https://www.skymocha.net). The purposes of this website are: -->
+## CALL TO: Researchers & Educators
 
-<!-- - To facilitate an easier sharing of my class notes & getting in an open-source mindset.
-- To upload [publications](/publications).
-- To upload important pages:
-    - [Photography Statement & Ethics](/photography)
-    - [Resume PDF](/resume.pdf). -->
+I am currently hoping to get back into non-video education. This might include secondary authorship on conference or journal papers, presentations, speeches, and more! Despite not engaging in college, I have previously worked in academic settings in computer science at UCSC and have presented at IEEE's Integrated STEM Education Conference in Princeton, NJ. If you are from the PDX area, or are willing to work remotely, I would love to assist in your projects and educational endeavors.
 
-<!-- You can find some of my major projects here!
-- [Fight Club's Incel to Exploitable Chad Pipeline](Fight_Club’s_Incel_To_Exploitable_Chad_Pipeline_Skye_Kychenthal) -->
+You can find my major existing works under my [publications](/publications.md) page and contact me skye@skymocha.net
 
-<!-- ## Courses -->
+## CALL TO: Content Creators & Livestreamers 
 
-<!-- - [MATH 111](Math 111) -->
-<!-- - CSCI 122
-- [SOC 211](Courses/Soc211/)
-- [HUM 110](Courses/Hum110/)
+I will gladly give voice lines or play characters for free in your projects. I love acting. That said, I am a character actor, I can sometimes struggle with natrualistic acting. I do this for fun! :) I have appeared on JohnTheDuncan and CaelenConrad, and some examples of my acting include my spoken word poem [Rhythmic Trances to the Wrong Song](), the opening of my Fight Club video, [an incel manifesto], and my speech on [The BBC and trans women].
 
-## Notes
+If you are local to PDX, also let me know! I am always down to help with IRL projects or lend my space and equipment! I have done this with one YouTuber, and hope to continue doing this to better learn lighting design.
 
-All courses taken are at [Reed College](https://www.reed.edu). The most up-to-date course catalog can be found [here](https://www.reed.edu/catalog/). As all notes & work done here are written by Skye Kychenthal, they should NOT be submitted as your own original work. This is called plagiarism. -->
+I also LOVE appearing on other people's Livestreams. I have been on Nominal Naomi's Livestreams, Sgt Malcoms, Bothered Boys, and my memes have been seen on [Vaush]. I can also appear as a live guest to any events in the Portland or Seattle area. 
 
-<!-- Last updated 2022-09-07 using a [static site generation script](https://github.com/SkyMocha/skymocha.github.io/blob/main/update.py) -->
+For any of these you can reach out to my email skye@skymocha.net 
 
-<!-- [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D5FBU2H) -->
+## CALL TO: Adult Film Actors 
+
+If you are a femme, androgynous, and/or queer adult content creator in the Portland or Seattle area, please reach out to me! I'd love to collaborate or be friends. 
+
+You can reach out to me skye@skymocha.net 
