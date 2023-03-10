@@ -15,7 +15,7 @@ I graduated from The Peddie School in 2022. Since then, I have tried many things
 
 ## CALL TO: Researchers & Educators
 
-I am currently hoping to get back into non-video education. This might include secondary authorship on conference or journal papers, presentations, speeches, and more! Despite not engaging in college, I have previously worked in academic settings in computer science at UCSC and have presented at IEEE's Integrated STEM Education Conference in Princeton, NJ. If you are from the PDX area, or are willing to work remotely, I would love to assist in your projects and educational endeavors.
+I am currently hoping to get back into non-video education. This might include secondary authorship on conference or journal papers, presentations, speeches, and more! Despite not engaging in college, I have previously worked in academic settings in computer science & cognitive modeling at UCSC and have presented at IEEE's Integrated STEM Education Conference in Princeton, NJ on the disproportionate rate of trans-women in programming fields. If you are from the PDX area, or are willing to work remotely, I would love to assist in your projects and educational endeavors. I am primarily interested in research surrounding sociological inquiry pertaining to my lived experience as a transgender person. 
 
 You can find my major existing works under my [publications](/publications.md) page and contact me [skye@skymocha.net](mailto:skye@skymocha.net)
 
