@@ -1,6 +1,7 @@
 - [Index](/)
 - [Publications](/publications)
 - [Linktr.ee](https://www.linktr.ee/skymocha)
+- [skye@skymocha.net](mailto:skye@skymocha.net)
 
 ## TERF & Gender Critical Organizations
 
