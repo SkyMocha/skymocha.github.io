@@ -25,7 +25,7 @@ I will gladly give voice lines or play characters for free in your projects. I l
 
 If you are local to PDX, also let me know! I am always down to help with IRL projects or lend my space and equipment! I have done this with one YouTuber, and hope to continue doing this to better learn lighting design.
 
-I also LOVE appearing on other people's livestreams. I have been on Nominal Naomi's livestreams, Sgt Malcoms, Bothered Boys, and my memes have been seen on [Vaush](https://twitter.com/velvetbnuuy/status/1632455656702636032). I can also appear as a live guest to any events in the Portland or Seattle area. 
+I also LOVE appearing on other people's livestreams. I have been on Nominal Naomi's livestreams, Sgt Malcoms, Bothered Boys, and my memes have been seen on [Vaush](https://twitter.com/velvetbnuuy/status/1632455656702636032) and on (funnily enough) the Daily Wire's [Matt Walsh](https://twitter.com/skymochi64/status/1637466905127837696) show. I can also appear as a live guest to any events in the Portland or Seattle area. 
 
 For any of these you can reach out to my email [contact@skymocha.net](mailto:contact@skymocha.net)
 
