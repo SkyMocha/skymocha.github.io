@@ -3,19 +3,15 @@
 - [Links](https://www.skymochi64.gay)
 - [contact@skymocha.net](mailto:contact@skymocha.net)
 
-## Secret Project
-
-- TBA
-
 ## TERF & Gender Critical Organizations
 
 - Kychenthal Skye. _[The Gender Critical Virus](https://www.youtube.com/@skymochi64)_. YouTube. January 7, 2023.
 
-- Kychenthal Skye. _["Just Questions": Grievance articulation among anti-trans organizations on Twitter](https://www.skyekychenthal.com/Papers/Just_Questions_Grievance_Articulation_Skye_Kychenthal)_. www.skyekychenthal.com. December 12, 2022.
+- Kychenthal Skye. _["Just Questions": Grievance articulation among anti-trans organizations on Twitter](https://www.skyekychenthal.com/Papers/Just_Questions_Grievance_Articulation_Skye_Kychenthal.pdf)_. www.skyekychenthal.com. December 12, 2022.
 
 ## Trans Women in Programming Fields
 
-- Kychenthal Skye. _Why The Trans Programmer?_. 2022 IEEE Integrated STEM Education Conference (ISEC), Princeton, NJ, USA, 2022, pp. 117-122, doi: 10.1109/ISEC54952.2022.10025288.
+- Kychenthal Skye. _[Why The Trans Programmer?](https://www.skyekychenthal.com/Papers/Why_The_Trans_Programmer_Skye_Kychenthal.pdf)_. 2022 IEEE Integrated STEM Education Conference (ISEC), Princeton, NJ, USA, 2022, pp. 117-122, doi: [10.1109/ISEC54952.2022.10025288](https://doi.org/10.1109/ISEC54952.2022.10025288).
 
 - Kychenthal Skye. _[Why Women Don't Code, But Trans Women Do](https://www.youtube.com/@skymochi64)_. YouTube. April 16, 2022.
 
