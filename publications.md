@@ -1,13 +1,17 @@
 - [Index](/)
 - [Publications](/publications)
-- [Linktr.ee](https://www.linktr.ee/skymocha)
-- [skye@skymocha.net](mailto:skye@skymocha.net)
+- [Links](https://www.skymochi64.gay)
+- [contact@skymocha.net](mailto:contact@skymocha.net)
+
+## Secret Project
+
+- TBA
 
 ## TERF & Gender Critical Organizations
 
 - Kychenthal Skye. _[The Gender Critical Virus](https://www.youtube.com/@skymochi64)_. YouTube. January 7, 2023.
 
-- Kychenthal Skye. _["Just Questions": Grievance articulation among anti-trans organizations on Twitter](https://osf.io/dkyqs)_. OSF Preprints. December 12, 2022.
+- Kychenthal Skye. _["Just Questions": Grievance articulation among anti-trans organizations on Twitter](https://www.skyekychenthal.com/Papers/Just_Questions_Grievance_Articulation_Skye_Kychenthal)_. www.skyekychenthal.com. December 12, 2022.
 
 ## Trans Women in Programming Fields
 
@@ -17,4 +21,4 @@
 
 ## Fight Club Media Analysis
 
-- Kychenthal Skye. _[Fight Club's Incel To Exploitable Chad Pipeline](https://skymocha.github.io/Fight_Club’s_Incel_To_Exploitable_Chad_Pipeline_Skye_Kychenthal.pdf)_. YouTube. October 23, 2022.
+- Kychenthal Skye. _[Fight Club's Incel To Exploitable Chad Pipeline](https://www.skyekychenthal.com/Papers/Fight_Club's_Incel_To_Exploitable_Chad_Pipeline_Skye_Kychenthal.pdf)_. YouTube. October 23, 2022.
