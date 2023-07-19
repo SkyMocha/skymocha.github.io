@@ -1,13 +1,13 @@
 # Site-wide Config
 
 title                : Skye Kychenthal
-description          : Skye Kychenthal's professional website including a resume, publications page, papers, course notes, a recommended readings list, and more!
+description          : Skye Kychenthal's professional website including a publications page
 locale               : en_US
 google_analytics     : UA-200647300-2
 keywords:
   - SkyMocha
   - Skye Kychenthal
-  - Skye Kychenthal Website
+  - Skye Kychenthal Publications
   - SkyMocha Website
 tags:
   - SkyMocha
